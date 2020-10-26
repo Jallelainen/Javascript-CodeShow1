@@ -1,0 +1,18 @@
+.maxW{
+    width: 100%;
+    background-color: blanchedalmond;
+    padding: 5px;
+}
+
+.chocblock{
+    height: 50px;
+    width: 50px;
+    background-color: chocolate;
+    float: left;
+}
+.greenblock{
+    height: 50px;
+    width: 50px;
+    background-color: darkseagreen;
+    float: left;
+}
