@@ -22,5 +22,5 @@ function createDivInsideDemo (addClassCss)
     myDemoElement.appendChild(myBlock);
 }
 
-createDivInsideDemo("chocblock")
-createDivInsideDemo("greenblock")
+//createDivInsideDemo("chocblock")
+//createDivInsideDemo("greenblock")
